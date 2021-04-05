@@ -1,2 +1,2 @@
-Time to process: 0 minutes 0 seconds
-Memory used: 0 MB
+Runtime of the program is 81.35735630989075
+Memory utilized is ==  0.3040624569208059
