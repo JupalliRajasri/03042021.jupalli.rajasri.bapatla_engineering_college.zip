@@ -1,1 +1,1 @@
-Translates the text
+Translates the english text to French text
